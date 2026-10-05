@@ -30,6 +30,24 @@ DevFlow helps teams organize work through organizations, projects, tasks, team m
 - Responsive dashboard layout
 - Production deployment
 
+## Screenshots
+
+### Dashboard
+
+![DevFlow Dashboard](screenshots/dashboard.png)
+
+### Project Details
+
+![DevFlow Project Details](screenshots/project-details.png)
+
+### Task Details
+
+![DevFlow Task Details](screenshots/task-details.png)
+
+### Settings
+
+![DevFlow Settings](screenshots/settings.png)
+
 ## Tech Stack
 
 ### Frontend
